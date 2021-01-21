@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-@Run
+
 public class AccountBalanceControllerTest {
 
 	@Test
